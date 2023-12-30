@@ -1,0 +1,29 @@
+* {
+    background-color : rgb(194, 208, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color : black;
+}
+
+
+h1 {
+    background-color :rgb(255, 237, 78);
+    font-weight: 800px;
+}
+
+ul,
+ol,
+li {
+    color: rgb(255, 230, 192);
+    background-color: rgb(0, 48, 49);
+    font-weight : 100px;
+}
+
+a {
+    background-color:rgba(240, 255, 255,0);
+    color: rgb(255, 230, 192);
+}
+
+strong {
+    font-weight: 800px;
+}
+
